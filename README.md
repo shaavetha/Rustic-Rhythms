@@ -20,7 +20,8 @@ This website is structured as a multi-page front-end project that combines moder
 
 
 # Tools Used
-- HTML 
+- HTML
+- HTML Table
 - CSS (combination of external, internal, and inline)
 - XML
 - XSLT (with XPath)
