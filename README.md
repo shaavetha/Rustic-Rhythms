@@ -23,18 +23,18 @@ with XML data transformation for 'Store' page, accessible design, and a strong f
 - DTD
 
 # Folder Structure
-index.html — Home page with hero banner, featured albums, shop info, and opening hours.
-about.html — "About Us" page with team profiles and shop objectives.
-contact.html — Contact form and shop information.
-checkout.html — Checkout form for shipping and payment details.
-thankyou.html — Confirmation page after checkout.
-login.html — Login interface for users.
-storefront/store.xml — XML file transformed via XSL to display the product catalog.
-albumlist/store.xsl - XSL file that transforms XML file using XPath to display the Store page
-albumlist/store.dtd - Validates the XML file
-styles.css — External CSS file for consistent layout and styling.
-images/ — All icons and logos.
-images/songs -  All album images.
+'index.html' — Home page with hero banner, featured albums, shop info, and opening hours.
+'about.html' — "About Us" page with team profiles and shop objectives.
+'contact.html' — Contact form and shop information.
+'checkout.html' — Checkout form for shipping and payment details.
+'thankyou.html' — Confirmation page after checkout.
+'login.html' — Login interface for users.
+'storefront/store.xml' — XML file transformed via XSL to display the product catalog.
+'albumlist/store.xsl' - XSL file that transforms XML file using XPath to display the Store page
+'albumlist/store.dtd' - Validates the XML file
+'styles.css' — External CSS file for consistent layout and styling.
+'images/' — All icons and logos.
+'images/songs' -  All album images.
 
 # CSS Styling Approach
 - External css - 
