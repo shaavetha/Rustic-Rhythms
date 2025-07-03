@@ -5,7 +5,7 @@ This website is structured as a multi-page front-end project that combines moder
 * This is a front-end focused project. No backend or JavaScript functionality is included. 
 * store.xml and album.xml require browser support for XML/XSL transformation.
 * Optimized for Chrome, Firefox, Safari.
-* The coursework report is available for more details on the creation of this website
+* 'Coursework Report.docx' is available for more details on the creation of this website
 
 # Features
  - Multi-page HTML structure
