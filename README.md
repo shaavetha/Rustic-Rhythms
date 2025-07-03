@@ -52,7 +52,8 @@ In a real-world project, external CSS would typically be used exclusively for be
 1. Download the repository
 2. Open index.html in a web browser.
 3. To view the XML transformed 'Store' page:
-     Open storefront/store.xml directly in Safari or Firefox **OR**
+     Open storefront/store.xml directly in Safari or Firefox
+   **OR**
    
      1. Open terminal or the cmd prompt in the location of the saved project folder
      2. Run the command:
