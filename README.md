@@ -53,7 +53,7 @@ In a real-world project, external CSS would typically be used exclusively for be
 
 # How to run
 
-1. Download the repository
+1. Download the RusticRhythms folder
 2. Open index.html in a web browser.
 3. To view the XML transformed 'Store' page:
      Open storefront/store.xml directly in Safari or Firefox
