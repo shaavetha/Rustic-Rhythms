@@ -2,13 +2,17 @@
 A multi-page music store website that showcases a catlog of record albums, an interactive storefront, and customer-facing pages like checkout and contact.
 This website is structured as a multi-page front-end project that combines modern styling with data transformation techniques to present a curated collection of music products. 
 
-
-with XML data transformation for 'Store' page, accessible design, and a strong focus on UI/UX.
+* This is a front-end focused project. No backend or JavaScript functionality is included. 
+* store.xml and album.xml require browser support for XML/XSL transformation.
+* Optimized for Chrome, Firefox, Safari.
+* The coursework report is available for more details on the creation of this website
 
 # Features
  - Multi-page HTML structure
  - Fully styled with consistent theme
- - Top nav bar + sticky menu + side nav
+ - Top nav bar + sticky menu
+ - Side nav (Home, About Us, Contact Us)
+ - Clickable logo (top left) + "RUSTIC RHYTHMS" banner both link back to the home page
  - XML album data transformed via XSLT
  - Table layout + scroll animations
  - About, Login, Checkout, Contact, and Thank You pages
